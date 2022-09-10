@@ -15,7 +15,7 @@ Get coin chart -
  - Total volume
  - About coin etc.
 
-# Live crypto coin tracker site - https://lnkd.in/dUz5mCW8
-# GitHub code - https://lnkd.in/dtauWJSc
+# Live crypto coin tracker site - 
+# GitHub code - 
 
 Learned About - useState, useEffect, axios library, router, switches etc.
