@@ -15,7 +15,7 @@ Get coin chart -
  - Total volume
  - About coin etc.
 
-# Live crypto coin tracker site - 
-# GitHub code - 
+# Live crypto coin tracker site - https://sarthak-crypto-tracker.netlify.app/
+# GitHub code - https://github.com/Sarthakdesai77/crypto-tracker
 
 Learned About - useState, useEffect, axios library, router, switches etc.
